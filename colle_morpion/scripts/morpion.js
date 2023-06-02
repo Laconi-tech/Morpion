@@ -1,0 +1,1 @@
+import {pion, checkWin} from './module.js';
